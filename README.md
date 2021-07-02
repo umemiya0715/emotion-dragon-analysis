@@ -34,3 +34,7 @@ Twitter上での人間関係や運用方法を考え直したい人
 ## 画面遷移図
 
 https://xd.adobe.com/view/f369b4f4-91a1-4025-a0de-d6237bff6c42-a63a/ 
+
+## ER図
+
+https://drive.google.com/file/d/12vdTI5Zrdz6FWTw0iU4mwWwk-rRkb_SA/view?usp=sharing
