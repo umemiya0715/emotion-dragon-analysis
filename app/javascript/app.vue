@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div id="app" class="text-4xl text-green-700 text-center font-semibold">
     <p>{{ message }}</p>
   </div>
 </template>
@@ -8,7 +8,7 @@
 export default {
   data: function () {
     return {
-      message: "Hello Vue!"
+      message: "Hello Tailwind!"
     }
   }
 }
